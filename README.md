@@ -5,7 +5,9 @@ The machine running this code must have CPU support for Intel Software Guard Ext
 
 This project uses Javascript (Node.JS) for it's blockchain implementation, while also using C++ to develop an SGX application which provides the blockchain consensus algorithm with a pseudo random wait timer.
 
-This code was development inline with my Master's Thesis from DCU in Electronic and Computer Engineering.
+This code was developed inline with my Master's Thesis from DCU in Electronic and Computer Engineering.
+
+[See Written Paper Here](/poet-consensus-sgx.pdf)
 
 Some other consensus algorithms and tests that were developed during the project have not been added to this repository.
 
